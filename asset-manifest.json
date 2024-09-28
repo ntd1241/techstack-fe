@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/techstack-fe/static/css/main.4ea1c0ea.css",
+    "main.js": "/techstack-fe/static/js/main.701991e4.js",
+    "static/js/453.a8651a3a.chunk.js": "/techstack-fe/static/js/453.a8651a3a.chunk.js",
+    "index.html": "/techstack-fe/index.html",
+    "main.4ea1c0ea.css.map": "/techstack-fe/static/css/main.4ea1c0ea.css.map",
+    "main.701991e4.js.map": "/techstack-fe/static/js/main.701991e4.js.map",
+    "453.a8651a3a.chunk.js.map": "/techstack-fe/static/js/453.a8651a3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ea1c0ea.css",
+    "static/js/main.701991e4.js"
+  ]
+}
